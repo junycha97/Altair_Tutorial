@@ -1,2 +1,2 @@
 # Altair_Tutorial
-Altair data visualization tutorial for 15-688 Practical Data Science @ CMU
+This tutorial was created for a class assignment for Carnegie Mellon University's Practical Data Science class. It uses Altair, a declarative statistical visualization library built on Vega and Vega-Lite, as a data visualization library.
